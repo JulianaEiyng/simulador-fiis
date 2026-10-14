@@ -64,11 +64,8 @@ Abaixo estão os prints que demonstram o comportamento dinâmico da ferramenta a
 
 **Figura 1 – Simulação utilizando o Perfil Moderado:**
 
-![Simulação com o perfil Moderado](moderado-simulador.PNG)
-![Gráfico de pizza com o perfil Moderado](moderado-grafico.PNG)
+![Simulação com o perfil Moderado](moderado-planilha.PNG)
 
 **Figura 2 – Simulação utilizando o Perfil Arrojado:**
 
-![Simulação com o perfil Arrojado](arrojado-simulador.PNG)
-![Gráfico de pizza com o perfil Arrojado](arrojado-grafico.PNG)
-
+![Simulação com o perfil Arrojado](arrojado-planilha.PNG)
