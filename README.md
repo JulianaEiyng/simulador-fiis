@@ -64,8 +64,8 @@ Abaixo estão os prints que demonstram o comportamento dinâmico da ferramenta a
 
 **Figura 1 – Simulação utilizando o Perfil Moderado:**
 
-![Simulação com o perfil Moderado](moderado-planilha.PNG)
+![Simulação com o perfil Moderado](moderado-planilha.png)
 
 **Figura 2 – Simulação utilizando o Perfil Arrojado:**
 
-![Simulação com o perfil Arrojado](arrojado-planilha.PNG)
+![Simulação com o perfil Arrojado](arrojado-planilha.png)
